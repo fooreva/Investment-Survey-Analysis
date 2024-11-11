@@ -4,6 +4,8 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
+- [Data Preparation](#data-preparation)
+- [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))
 
 ### Project Overview
 
