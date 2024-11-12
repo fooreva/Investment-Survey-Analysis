@@ -6,6 +6,10 @@
 - [Tools](#tools)
 - [Data Preparation](#data-preparation)
 - [Exploratory Data Analysis (EDA)](exploratory-data-analysis-(eda))
+- [Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview
 
@@ -41,10 +45,17 @@ This involves the exploring of survey data to answer key questions such as:
 
 Codes---------------------------------
 ```Sql
+--delete null value
+delete * from investment_survey where investment_per_month = 0;
+--correcting of inconsistency
+update investment_survey set motivation_cause ='Self' where motivation_cause ='Self ';
+--checking for correlation abetween resources used and motivation cause
+select motivation_cause,resources_used,count(resources_used) from investment_survey group by
+motivation_cause,resources_used order by count(resources_used) desc;
 
 ```
 
-### Result/Findings
+### Findings
 
 1.	Younger adult  (age 18-29) engage more in investing than adult(30 above)
 2.	There are more male investors when compared to female.
