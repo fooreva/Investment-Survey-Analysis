@@ -59,20 +59,21 @@ motivation_cause,resources_used order by count(resources_used) desc;
 
 1.	Younger adult  (age 18-29) engage more in investing than adult(30 above)
 2.	There are more male investors when compared to female.
-3.	The proportion of working professionals is larger than that of non-working professionals, with 60% of the population being working professionals and 40% being non-working professionals. 
+3.	The proportion of working professionals is larger than that of non-working professionals, with 59% of the population being working professionals and 41% being non-working professionals. 
 4.	According to the analysis of the most effective motivational factors by age category,Family members, agents/investment brokers, banks, and social media are the most motivating factors for adults, while family,friends,and social media rank top among young adults.
 5.	From the results there is indeed some sort of linear relationship between both.This means this likelihood of the resources used to know about the investment being a friend, the likelihood of the motivational cause being a friend also.
    
 ### Recommendations
 Based on the analysis we recommend the following:
-- 	The percentage of young adult(18-29) to adult(>30) shows or proves the younger generation has so much drive for success such as wealth generation, financial freedom which is the most occurring goal as per the analysis and can be used as  factor in convincing or encouraging youngsters to invest whereas also educating adults what they stand to gain.
+- 	The percentage of young adult(18-29) to adult(>30) shows or proves the younger generation has so much drive for success such as wealth generation,personal savings, financial freedom which is the most occurring goal for investment as per the analysis and can be used as  factor in convincing or encouraging youngsters to invest whereas also educating adults what they stand to gain.
 - Investment companies should channel more energy to the female gender thereby encouraging and educating them on what they stand to gain as women too also has lot to offer.
 - It should be noted that not being a working professional doesn’t limit one from investing, not having a monthly income doesn’t mean one cannot invest so equal energy should be channeled to non-working prof as do working professionals
 - Since there is linear relationship between resources used in knowing about the investment and the drive in participating in the investment, companies should bank on an effective and reliable means on carrying out brand promotions such as:
   - The use of reputable social personalities that could be of great influence to the masses
   -  Hiring of efficient investment brokers that has great inter-personal and communication skills.
   - Publishing of articles relating to the investment and its benefits.
- In conclusion the more people that are convinced and can testify about an investment and its benefits, the more people they convinced to join.
+
+In conclusion the more people are convinced and can testify about an investment and its benefits, the more people they convinced to join.
   
 ### Limitations
 
