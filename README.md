@@ -15,6 +15,9 @@
 
 The main goal of this analysis is to extract more information on investors and the specifics of their investments, which will help investment firms make better decisions about their policies and strategies for luring investors to their business.
 
+![dashboard](https://github.com/user-attachments/assets/eadcfe09-ce00-4887-ae2d-8ed6239242cf)
+
+
 ### Data Sources
 
 Investment survey data: the primary data used for this analysis is the “investment_survey data.csv” containing detailed information on investment of individuals
